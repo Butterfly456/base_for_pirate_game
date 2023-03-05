@@ -1,1 +1,2 @@
-# base_for_pirate_game
+# PRO-C22-SA-Boilerplate_code
+Boilerplate code for student  
